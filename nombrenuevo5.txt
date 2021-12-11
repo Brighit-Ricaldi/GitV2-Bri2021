@@ -4,3 +4,4 @@ git add nuevo_nombre
 git rm viejo_nombre
 Linea 2
 Linea 3
+Linea 4
