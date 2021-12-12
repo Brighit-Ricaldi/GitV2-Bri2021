@@ -2,6 +2,10 @@
 mv viejo_nombre nuevo_nombre
 git add nuevo_nombre
 git rm viejo_nombre
+<<<<<<< HEAD
 Linea 2
 Linea 3
 Linea 4
+=======
+Linea 2 
+>>>>>>> agregando_linea
